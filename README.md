@@ -3,3 +3,5 @@
 Welcome to Kyos' GitHub Public Repository
 
 Follow us on [Linkedin](https://www.linkedin.com/company/kyos/)
+
+Rules for Kyos employees : https://kb.kyos.ch/bin/view/CustomExtension/TopPanelMenu/Content/Tab-15/Col-01/Listitem-01/Overview/GitHub/
